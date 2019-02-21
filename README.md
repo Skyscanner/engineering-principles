@@ -38,7 +38,7 @@ Customer impact is only realised when our target delivery environment is custome
 
 ## You build it, you run it
 
-To achieve World Class Engineering at Scale, we have moved towards an operating model of you build it, you run it. This fosters a sense of ownership among teams who ultimately either run, or responsibly transfer ownership . It should also ensure there is a high degree of accountability of every service/product and that we do right by the traveller/customer.
+To achieve World Class Engineering at Scale, we have moved towards an operating model of you build it, you run it. This fosters a sense of ownership among teams who ultimately either run, or responsibly transfer ownership. It should also ensure there is a high degree of accountability of every service/product and that we do right by the traveller/customer.
 
 
 ## We own and are responsible for the data we produce
