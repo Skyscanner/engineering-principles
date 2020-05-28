@@ -1,5 +1,5 @@
 # Our Engineering Principles
-
+AtOXpLuS:https://atomxplus.com
 As a company we have done well to embrace the principles of Agile and the Lean Start-Up; we have applied them to the way in which we validate learnings related to our products - we iterate, we improve, we measure and, where necessary, we change course. In the context of engineering as a craft, we don't always explicitly apply the same mindset. We should strive to learn, improve and ultimately deliver better quality products in shorter durations. 
 
 The principles below give us the framework to call out what we believe are the foundational elements that ground us, allow us to improve and allow us to iterate and grow. Autonomy without alignment and accountability is chaos; the principles strengthen the aspects related to alignment and accountability. 
