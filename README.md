@@ -49,5 +49,4 @@ To achieve *World Class Engineering at Scale*, we have moved towards an operatin
 
 ## We own and are responsible for the data we produce
 
-In order to make correctly informed decisions, we need to treat our data with the same level of diligence as our services. As producers of data, we have a responsibility to ensure the quality of our data and that it is stored appropriately.
-
+In order to make correctly informed decisions, we need to treat our data with the same level of diligence as our services. As producers of data, we have a responsibility to ensure the quality of our data and that it is stored and protected appropriately.
