@@ -52,7 +52,7 @@ To achieve *World Class Engineering at Scale*, we have moved towards an operatin
 In order to make correctly informed decisions, we need to treat our data with the same level of diligence as our services. As producers of data, we have a responsibility to ensure the quality of our data and that it is stored and protected appropriately.
 
 
-## We write with inclusivity and diversity in mind
+## We write with inclusivity, diversity, and accessibility in mind
 
 Our company values inclusiveness in the workplace and we should reflect this stance in our engineering output.
 
