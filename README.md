@@ -1,5 +1,5 @@
 
-# Our Engineering Principles
+# Our Engineering Principles 
 
 As a company we have done well to embrace the principles of Agile and the Lean Start-Up; we have applied them to the way in which we validate learnings related to our products - we iterate, we improve, we measure and, where necessary, we change course. In the context of engineering as a craft, we don't always explicitly apply the same mindset. We should strive to learn, improve and ultimately deliver better quality products in shorter durations. 
 
@@ -49,7 +49,7 @@ To achieve *World Class Engineering at Scale*, we have moved towards an operatin
 
 ## We own and are responsible for the data we produce
 
-In order to make correctly informed decisions, we need to treat our data with the same level of diligence as our services. As producers of data, we have a responsibility to ensure the quality of our data and that it is stored and protected appropriately.
+In order to make correctly informed decisions, we need to treat our data with the same level of diligence as our services. As producers of data, we have a responsibility to ensure the quality of our data and that it is stored and protected appropriately. 
 
 
 ## We write with inclusivity, diversity, and accessibility in mind
